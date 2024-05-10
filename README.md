@@ -1,2 +1,2 @@
-# Clockify_App
-People management and attendance tracking app
+# Clockify App
+People management and attendance tracking app.
