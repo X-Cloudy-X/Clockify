@@ -1,0 +1,11 @@
+Your selected colors:
+
+    Text: #0b2813 - rgb(11, 40, 19) - hsl(137, 57%, 10%)
+    Background: #ebf9ee - rgb(235, 249, 238) - hsl(133, 54%, 95%)
+    Primary: #227737 - rgb(34, 119, 55) - hsl(135, 56%, 30%)
+    Secondary: #c384db - rgb(195, 132, 219) - hsl(283, 55%, 69%)
+    Accent: #a32e69 - rgb(163, 46, 105) - hsl(330, 56%, 41%)
+
+Realtime Colors link for selected colors: https://www.realtimecolors.com/?colors=0b2813-ebf9ee-227737-c384db-a32e69&fonts=Inter-Inter
+
+Thanks for using RealtimeColors.com!
