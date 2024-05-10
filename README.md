@@ -1,17 +1,26 @@
 # Clockify App
 People management and attendance tracking app.
 
-
+> ## Launch
 ![image](https://github.com/X-Cloudy-X/Clockify_App/assets/118204628/89c6ed45-8b52-46ef-b16e-72c8252cb080)
 
-![image](https://github.com/X-Cloudy-X/Clockify_App/assets/118204628/a89b6b09-7481-4489-ab45-1b17d2395257)
+> ## Home
+![image](https://github.com/X-Cloudy-X/Clockify_App/assets/118204628/9f819c64-e479-42e6-aa6b-379fd4898094)
 
 
+> ## People
 ![image](https://github.com/X-Cloudy-X/Clockify_App/assets/118204628/45dff1dd-64c4-47b8-8ce1-e7e7ed702476)
-![image](https://github.com/X-Cloudy-X/Clockify_App/assets/118204628/6619e778-20c2-4ecb-b02f-35a502113209)
+
+> ### Manage People
+![image](https://github.com/X-Cloudy-X/Clockify_App/assets/118204628/9d063106-7b07-4935-a9ca-18f83a2aeb51)
 
 
-![image](https://github.com/X-Cloudy-X/Clockify_App/assets/118204628/ace8fe19-5c86-4ef6-aad3-09f928bf0920)
-![image](https://github.com/X-Cloudy-X/Clockify_App/assets/118204628/e0ab82f5-100f-4b64-b6e3-1e64a1b82164)
+> ## Dates
+![image](https://github.com/X-Cloudy-X/Clockify_App/assets/118204628/0d44b5e0-ad09-43c6-a2ee-bfd7ccbf1ae4)
 
-![image](https://github.com/X-Cloudy-X/Clockify_App/assets/118204628/cd3004a6-90b4-4c66-bf4a-73f70c1c3012)
+> ### Manage Dates
+![image](https://github.com/X-Cloudy-X/Clockify_App/assets/118204628/52d7b0e1-84a9-41ea-82b4-1503b1fb0e97)
+
+
+> ## Light Mode
+![image](https://github.com/X-Cloudy-X/Clockify_App/assets/118204628/4644b338-c49b-476f-915e-c247835ceb54)
