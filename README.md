@@ -9,7 +9,7 @@ People management and attendance tracking app.
 
 
 > ## People
-![image](https://github.com/X-Cloudy-X/Clockify_App/assets/118204628/45dff1dd-64c4-47b8-8ce1-e7e7ed702476)
+![image](https://github.com/X-Cloudy-X/Clockify_App/assets/118204628/0d54840a-5fce-4a61-a2c0-d99d7276ccad)
 
 > ### Manage People
 ![image](https://github.com/X-Cloudy-X/Clockify_App/assets/118204628/9d063106-7b07-4935-a9ca-18f83a2aeb51)
