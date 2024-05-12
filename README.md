@@ -2,7 +2,8 @@
 People management and attendance tracking app.
 
 > ## Launch Log-in & Register
-![image](https://github.com/X-Cloudy-X/Clockify/assets/118204628/aa41068e-21c5-4699-b0f6-0cee85903a18)
+![image](https://github.com/X-Cloudy-X/Clockify/assets/118204628/656165bd-2e01-4b2b-aa29-03a542a3546f)
+
 For testing and viewing test-data use:
   username:  admin
   password:  admin123
